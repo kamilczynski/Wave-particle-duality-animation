@@ -307,7 +307,7 @@ def main():
     anim = duality_animation.animate()
 
     # Jeśli chcesz zapisać do pliku wideo, odkomentuj poniższą linię:
-   # anim.save(r'C:\Users\topgu\PycharmProjects\obrazowanie\media\videos\light_duality.mp4', writer='ffmpeg', fps=20, dpi=150)
+   # anim.save(r'C:\Users\light_duality.mp4', writer='ffmpeg', fps=20, dpi=150)
 
     plt.show()
 
